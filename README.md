@@ -8,7 +8,4 @@ challenge involves trajectory planning, power allocation,
 subchannel allocation, and UAV-to-vehicle connection in
 order to maximize the total data rate in a highway
 situation. It is challenging to obtain an optimal solution
-for this non-convex optimization issue. To break
-the difficulties down into four smaller problems and
-ultimately obtain the ideal result, an iterative approach
-is suggested.
+for this non-convex optimization issue. Genetic Algorithm is used to get the optimal solution.
